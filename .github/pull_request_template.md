@@ -1,12 +1,22 @@
 # Descrição
- 
- 
-### Checklist
- 
-- [x] Terraform
- 
-- [ ] Mongodb
+<ins> Caso tenha scripts em MongoDB e/ou DynamoDB proceder conforme exemplo do link abaixo. </ins>
+[Template](https://hyperflowglobalbr.sharepoint.com/:f:/s/Arquitetura/EqiOOdWN7olMmrcaXBthEhYBBLfRVWCyMVmYHZ2CKT0UKg?e=1JaAoa)
 
-    * [Scripts MongoDB](https://hyperflowglobalbr.sharepoint.com/:f:/s/Arquitetura/EkvHpg4w2EtAoxPh5V5lUycBu4E5iplrKd9cSa1wRzYyXg?e=oAKtrY)
+ **1. Criar os Scripts no diretório correspondente a Release corrente e seu respectivo Card
+2. Caso não tenha Scripts informar no respectivo tópico abaixo como "Não se aplica"** 
 
-- [ ] Dynamodb
+
+
+
+### Terraform
+_Descritivo:_
+
+__________________________________________________________________________________________________________________________________________
+### MongoDB
+
+_Link do Script do MongoDB do seu Card:_
+
+__________________________________________________________________________________________________________________________________________
+### DynamoDB
+
+_Link do Script do DynamoDB do seu Card:_
